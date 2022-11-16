@@ -14,28 +14,28 @@ const Pricing = () => {
   }
   const faqs: Faq[] = [
     {
-      title: `How is the payment system?`,
-      description: `If the project has agreed, you will pay an advance, and when the progress reaches 50% you will make a second payment, and when the progress is 100% you will pay it off.`,
+      title: `Bagaimana sistem pembayarannya?`,
+      description: `Jika proyek sudah setuju, Anda akan membayar uang muka, dan saat progres mencapai 50% Anda akan melakukan pembayaran kedua, dan saat progres 100% Anda akan melunasinya.`,
     },
     {
-      title: `Can I consult first?`,
-      description: `Of course you can consult us first. We are very happy to help your problems and provide our best solutions. You can contact us via the contact page.`,
+      title: `Apakah saya bisa berkonsultasi terlebih dahulu?`,
+      description: `Tentu saja Anda dapat berkonsultasi dengan kami terlebih dahulu. Kami sangat senang membantu masalah Anda dan memberikan solusi terbaik kami. Anda dapat menghubungi kami melalui halaman kontak.`,
     },
     {
-      title: `What if the project stops halfway?`,
-      description: `We promise to always finish the project on time, if a problem occurs (because of our mistake), all payments will be refunded. And the project will be terminated.`,
+      title: `Bagaimana jika proyek berhenti di tengah jalan?`,
+      description: `Kami berjanji untuk selalu menyelesaikan proyek tepat waktu, jika terjadi masalah (karena kesalahan kami), semua pembayaran akan dikembalikan. Dan proyek tersebut akan dihentikan.`,
     },
     {
-      title: `Does it include servers and domains?`,
-      description: `You don't need to think about anything else, we have everything prepared. You just need to check your progress and make sure the features you want are the right one.`,
+      title: `Apakah itu termasuk server dan domain?`,
+      description: `Anda tidak perlu memikirkan hal lain, kami sudah menyiapkan semuanya. Anda hanya perlu memeriksa kemajuan Anda dan memastikan bahwa fitur yang Anda inginkan adalah yang benar.`,
     },
     {
-      title: `Will I get the source code?`,
-      description: `When the project is 100% complete, all the resources, such as design files, analysis diagrams, source code, etc. will be provided to you. You don't need to worry about this.`,
+      title: `Apakah saya akan mendapatkan kode sumbernya?`,
+      description: `Ketika proyek selesai 100%, semua sumber daya, seperti file desain, diagram analisis, kode sumber, dll. Akan diberikan kepada Anda. Anda tidak perlu khawatir tentang ini.`,
     },
     {
-      title: `Is there a warranty?`,
-      description: `1 year warranty for our errors or mistakes. If you want to add a feature that is not included in the warranty, there is another fee per feature, and the price depends on the difficulty.`,
+      title: `Apakah ada garansi?`,
+      description: `Garansi 1 tahun untuk kesalahan atau kekeliruan kami. Jika ingin menambahkan fitur yang tidak termasuk dalam garansi, ada biaya lain per fitur, dan harganya tergantung kesulitannya.`,
     },
   ]
 

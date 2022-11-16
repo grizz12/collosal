@@ -19,7 +19,7 @@ const About = () => {
               layout="fill"
               objectFit="contain"
               quality={80}
-              alt="Programmers when coding in their laptop"
+              alt="Pemrogram saat membuat kode di laptop mereka"
               
             />
           </div>
@@ -30,8 +30,8 @@ const About = () => {
         >
           <PageSentence
             badge="ABOUT"
-            title="We are creative, smart and hardworking people"
-            description={`Several creative people gather in the same place - that's Collosal. We collaborate to produce the best results, loved by clients and comfortable for users. Here we maintain togetherness even though with different backgrounds, all the people here are already experts in their respective fields.`}
+            title="Kami adalah orang-orang yang kreatif, cerdas, dan pekerja keras"
+            description={`Beberapa orang kreatif berkumpul di tempat yang sama - itulah BBILABS. Kami berkolaborasi untuk menghasilkan hasil terbaik, disukai klien dan nyaman bagi pengguna. Disini kami menjaga kebersamaan walaupun dengan latar belakang yang berbeda, semua orang disini sudah ahli di bidangnya masing-masing.`}
           />
         </aside>
       </section>
@@ -43,7 +43,7 @@ const About = () => {
         >
           <SectionSentence
             badge="STATISTICS"
-            title="In 3 years we reached 8 countries, 193 clients and earning $100k USD"
+            title="Dalam 3 tahun kami menjangkau 8 negara, 193 klien dan menghasilkan $100k USD"
           />
         </div>
         <div className="w-full grid gap-14">
@@ -59,8 +59,8 @@ const About = () => {
           data-aos="zoom-in-up"
         >
           <SectionSentence
-            badge="OUR TEAMS"
-            title="Meet the team! All creative people are here"
+            badge="TIM KITA"
+            title="Temui Tim! Semua orang kreatif ada di sini"
           />
         </div>
         <div className="w-full grid gap-5 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">

@@ -42,7 +42,7 @@ const TestimonialList = () => {
             avatarSrc="/images/testimonial-avatar.png"
             name="Esther Howard"
             company="Abstergo Ltd."
-            testimony={`"Your company is truly upstanding and is behind its product 100%. It's the perfect solution for our business. It has really helped our business."`}
+            testimony={`"Perusahaan Anda benar-benar terhormat dan berada di belakang produknya 100%. Ini adalah solusi sempurna untuk bisnis kami. Ini sangat membantu bisnis kami."`}
           />
         </SwiperSlide>
         <SwiperSlide className='mt-10'>
@@ -50,7 +50,7 @@ const TestimonialList = () => {
             avatarSrc="/images/testimonial-avatar-2.png"
             name="Esther Howard"
             company="Abstergo Ltd."
-            testimony={`"Your company is truly upstanding and is behind its product 100%. It's the perfect solution for our business. It has really helped our business."`}
+            testimony={`"Perusahaan Anda benar-benar terhormat dan berada di belakang produknya 100%. Ini adalah solusi sempurna untuk bisnis kami. Ini sangat membantu bisnis kami."`}
           />
         </SwiperSlide>
         <SwiperSlide className='mt-10'>
@@ -58,7 +58,7 @@ const TestimonialList = () => {
             avatarSrc="/images/testimonial-avatar-3.png"
             name="Esther Howard"
             company="Abstergo Ltd."
-            testimony={`"Your company is truly upstanding and is behind its product 100%. It's the perfect solution for our business. It has really helped our business."`}
+            testimony={`"Perusahaan Anda benar-benar terhormat dan berada di belakang produknya 100%. Ini adalah solusi sempurna untuk bisnis kami. Ini sangat membantu bisnis kami."`}
           />
         </SwiperSlide>
       </Swiper>

@@ -40,7 +40,7 @@ const Project = () => {
           <div className="text-center md:text-left">
             <PageSentence
               badge="PROJECTS"
-              title="We have completed many amazing projects that you will not believe"
+              title="Kami telah menyelesaikan banyak proyek luar biasa yang tidak akan Anda percayai"
             />
           </div>
         </aside>

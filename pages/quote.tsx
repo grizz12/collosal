@@ -15,9 +15,9 @@ const Quote = () => {
           <aside className="w-full sm:w-10/12 md:w-8/12 grid grid-cols-1 place-items-center gap-12 lg:w-full lg:place-items-start" data-aos="fade-down-right">
             <div className="text-center lg:text-left">
               <PageSentence
-                title="Tell us about your problem and how we can help"
-                description="We are happy to help you, tell us what is the problem with your company, and we are ready to answer these problems. It usually takes a few minutes for us to respond."
-                badge="SEND QUOTE"
+                title="Beritahu kami tentang masalah Anda dan bagaimana kami dapat membantu"
+                description="Kami dengan senang hati membantu Anda, beritahu kami apa masalah perusahaan Anda, dan kami siap menjawab masalah tersebut. Biasanya diperlukan beberapa menit bagi kami untuk merespons."
+                badge="Kirim Pesan"
               />
             </div>
             <div className="w-fit">
@@ -46,8 +46,8 @@ const Quote = () => {
                   ]}
                 />
               </div>
-              <TextAreaGroup label="Tell Us Your Problem" />
-              <Button value="Send Quote" />
+              <TextAreaGroup label="Beritahu Kami Masalah Anda" />
+              <Button value="Kirim Pesan" />
             </div>
           </aside>
         </section>
